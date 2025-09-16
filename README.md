@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Having issues or questions? We're here to help!
 
-- 📧 **Email**: techinbuddy815@gmail.com,anusha859695@hmail.com
+- 📧 **Email**: techinbuddy815@gmail.com , anusha859695@gmail.com
 - 💬 **Issues**: [GitHub Issues](https://github.com/techinbuddy09/-SQLiify-/issues)
 - 📖 **Documentation**: Check the code comments and this README
 
